@@ -1,2 +1,0 @@
-# wzfree.github.com
-blog
